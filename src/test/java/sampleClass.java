@@ -15,6 +15,17 @@ private void method4() {
 	System.out.println("4");
 
 }
+private void bilal() {
+	System.out.println("bilal");
 
+}
+private void sharuk() {
+	System.out.println("sharuk");
+
+}
+private void ganesh() {
+	System.out.println("ganesh");
+
+}
 
 }
