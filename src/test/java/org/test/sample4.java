@@ -13,6 +13,7 @@ public class sample4 {
 			System.out.println("3");
 		}
 
+
 		
 
 		
@@ -39,6 +40,17 @@ public class sample4 {
 		}
 		private void bangalore() {
 			System.out.println("bangalore");
+		}
+		private void bilal() {
+			System.out.println("bilal");
+
+		}
+		private void sharuk() {
+			System.out.println("sharuk");
+
+		}
+		private void ganesh() {
+			System.out.println("ganesh");
 		}
 	}
 
